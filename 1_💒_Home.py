@@ -53,7 +53,7 @@ def background():
                         email me via alukodami@ymail.com
                         """)
                 st.caption('For more information about me, checkout my!')
-                st.write(':red[[GitHub](https://github.com/Koanim/LP4-Telco-Customer-Churn-Prediction-APP), [LinkdIn](https://www.linkedin.com/in/oluwadamilola-aluko/), [Medium](https://medium.com/@alukodami)] pages')
+                st.write(':red[[GitHub](https://github.com/damzking/TELCO-CHURN), [LinkdIn](https://www.linkedin.com/in/oluwadamilola-aluko/), [Medium]()] pages')
                 
         with col2:                    
             st.write('#### :rainbow[ Telco Churn Overview]')
